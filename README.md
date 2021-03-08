@@ -6,8 +6,8 @@ Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease
   sklearn(tested on version 0.24.1)  
   tensorly(tested on version 0.5.1)  
 
-# Quick start To reproduce our results
-Run main_cv.py to RUN GraphTF.
+# Quick start
+Run main_cv.py to RUN GraphTF to reproduce our results.
 
 # Data description:
 * 283_dis_semantic_sim_matrix.csv:disease semantic similarity matrix.   
