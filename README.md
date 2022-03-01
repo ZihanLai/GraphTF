@@ -1,5 +1,6 @@
 # GraphTF
 Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease-associated miRNA-miRNA pairs.
+J. Luo, Z. Lai, C. Shen, P. Liu and H. Shi, 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, pp. 189-196, doi: 10.1109/BIBM52615.2021.9669673.
 # Requirements
   pytorch(tested on version 1.6.0)  
   numpy(tested on version 1.20.1)  
